@@ -4,7 +4,7 @@
   <groupId>com.javatpoint</groupId>
   <artifactId>Google</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>Google Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
